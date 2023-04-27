@@ -1,0 +1,17 @@
+.contenedor-card {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    cursor: pointer;
+    
+}
+
+.card-image{
+    width: 200px;
+    height: 200px;
+}
+
+.nombre-personaje {
+    margin-bottom:15% ;
+}
+
